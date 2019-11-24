@@ -16,7 +16,7 @@
 |                 |                                                          [John Peach](https://www.linkedin.com/in/jpeach/) |                                                                                                                                              [Condition System in R](2017-01-26%20-%20SoCal%20R%20All%20hands%20-%20Condition%20System%20in%20R) |
 |    Endnote Talk |                                                    [Julia Stewart Lowndes](https://twitter.com/juliesquid) |                                                                                                                                                    [R for better science in less time](https://openscapes.github.io/slides/betterscience/socalR) |
 
-### Live-Tweets: <https://twitter.com/la_Rusers>
+### Live-Tweets: <https://zhiyang.netlify.com/post/socalr2019/>
 
 <!-- badges: start -->
 

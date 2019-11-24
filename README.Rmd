@@ -22,8 +22,7 @@ knitr::opts_chunk$set(
 | Peter Foley |  [Staying clean and DRY - best practices for code reuse and collaboration](https://github.com/peterfoley/clean_and_dry) |   
 | An Bui | [Exploring communities with 'vegan' - an introduction to community analysis](2019-11-socal_useR.pptx) |   
 | Steven Slezak | [The Linear Algebra Behind Machine Learning: Under the Hood with Regression Analysis](LARUG Lightning Talk.pdf)  |   
-| Wendy Christensen | [ Macgyvering with R:
-Creating a Work Schedule](Macgyvering with R_ Creating a Work Schedule.pdf) |   
+| Wendy Christensen | [ Macgyvering with R: Creating a Work Schedule](Macgyvering with R_ Creating a Work Schedule.pdf) | 
 | John Peach | [Condition System in R](2017-01-26 - SoCal R All hands - Condition System in R) |   
 | Julia Stewart Lowndes | [R for better science in less time](https://openscapes.github.io/slides/betterscience/socalR) | 
 

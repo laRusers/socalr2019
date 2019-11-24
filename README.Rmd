@@ -26,7 +26,7 @@ knitr::opts_chunk$set(
 || [John Peach](https://www.linkedin.com/in/jpeach/) | [Condition System in R](2017-01-26 - SoCal R All hands - Condition System in R) |   
 |Endnote Talk | [Julia Stewart Lowndes](https://twitter.com/juliesquid) | [R for better science in less time](https://openscapes.github.io/slides/betterscience/socalR) | 
 
-### Live-Tweets: https://twitter.com/la_Rusers
+### Live-Tweets: https://zhiyang.netlify.com/post/socalr2019/
 
 <!-- badges: start -->
 <!-- badges: end -->

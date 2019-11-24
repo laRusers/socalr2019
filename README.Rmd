@@ -15,7 +15,7 @@ knitr::opts_chunk$set(
 
 |  Presenters |  Talk |
 |--:|--:|
-| Malcolm Barrett, Emil Hvitfeldt |  Workshop: [Slides](https://designing-ggplots.netlify.com/), [Course package](https://github.com/malcolmbarrett/designing.ggplots), [RStudio Cloud Workspace](http://bit.ly/design_gg)  |   
+| Malcolm Barrett, Emil Hvitfeldt |  "Designing ggplots: making clear figures that communicate" workshop:  [Slides](https://designing-ggplots.netlify.com/), [Course package](https://github.com/malcolmbarrett/designing.ggplots), [RStudio Cloud Workspace](http://bit.ly/design_gg)  |   
 | Malcolm Barrett |  [Welcome](https://socal-allhands.netlify.com/) |
 | Alan Dipert |  [Software Engineering with Shiny](https://docs.google.com/presentation/d/1ZHjQVjHR4jE3bG8HU1iDAFDaATSp6q68Gt2lFom9iX4/edit?usp=sharing) |
 | Qinghua Song |  Artificial Intelligence & Analytical Innovation |  

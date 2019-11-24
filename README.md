@@ -1,6 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+![](img.png)
 # SoCal All Hands useR Meeting 2019
 
 |         Session |                                                                                                 Presenters |                                                                                                                                                                                                                                             Talk |
